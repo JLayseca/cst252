@@ -1,0 +1,25 @@
+h1 {
+  color: blue;
+  font-size: 600%;
+  font-family: monospace;
+}
+
+h2 {
+  font-size: 371%;
+}
+
+#Sugi {
+  color: #64c03e;
+  font-family: 'Rubik Beastly', cursive;
+}
+
+#Jeremy {
+  color: MidnightBlue;
+  font-family:fantasy;
+}
+
+p {
+    font-family:'Zen Kurenaido', sans-serif;
+    margin-left: 20px;
+    text-indent: 40px;
+}
