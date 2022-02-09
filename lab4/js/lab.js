@@ -1,4 +1,4 @@
-// Summary: Pseudocode comments for the computer's behavior as the user orders someting from Amzaon.
+<pre>// Summary: Pseudocode comments for the computer's behavior as the user orders someting from Amzaon.
 // Description: Pseudocode converted to comments to make theoretically written code more readable to any human being examining the code. (use period)
 // @link   URL
 // @file   This files defines the MyClass class.
@@ -39,4 +39,4 @@
            //Send an order confirmation email to the user's email.
            //Generate the estimated arrival date.
            //If the user does not have Prime, then load the ad for a Prime free trial.
-           //If the user does not have the Amazon Visa card, load and ad for the Amazon Visa card.
+           //If the user does not have the Amazon Visa card, load and ad for the Amazon Visa card. </pre>
