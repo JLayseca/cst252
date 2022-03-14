@@ -5,7 +5,7 @@
  */
 
 //Find the button to attatch the click handler
-$("#challenge-button").click(function(){
+$("#challenges-button").click(function(){
 //toggle a new class
   $("#challenge").toggleClass("red");
 })
