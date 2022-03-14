@@ -8,7 +8,7 @@
 //Find the button to attatch the click handler
 $("#dumb-button").click(function(){
 //remove existing attribute
-  $("p").removeAttr('style');
+  $("p").css("color", "");
 //toggle a new class
   $("#challenge").toggleClass("red");
 })
